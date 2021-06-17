@@ -1,0 +1,28 @@
+{
+  "name": "store_siyaz",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@google-pay/button-react": "^2.2.1",
+    "axios": "^0.21.1",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "js-cookie": "^2.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.15",
+    "next": "^10.2.3",
+    "nookies": "^2.5.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-stripe-checkout": "^2.6.3",
+    "sendinblue-api": "^1.0.8",
+    "sib-api-v3-sdk": "^8.2.0",
+    "stripe": "^8.137.0",
+    "uuid": "^8.3.2"
+  }
+}
